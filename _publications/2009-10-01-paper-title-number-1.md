@@ -6,5 +6,3 @@ date: 2023-01-01
 venue: 'The Journal of Economic History'
 paperurl: 'https://doi.org/10.1017/S0022050723000116'
 ---
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
