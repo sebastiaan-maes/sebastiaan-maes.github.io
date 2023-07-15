@@ -83,10 +83,10 @@ author:
   name             : "Sebastiaan Maes"
   avatar           : "sebastiaan.png"
   bio              : "Postdoctoral researcher"
-  location         : 
+  location         :
   employer         : "University of Antwerp"
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            : "sebastiaan.maes@uantwerpen.be"
   researchgate     :
   uri              :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3989-8909"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "sebastiaanmaes"
@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  workingpapers:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -216,8 +219,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -225,8 +228,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
+  # _workingpapers
+  - scope:
+      path: ""
+      type: workingpapers
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
