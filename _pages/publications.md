@@ -16,6 +16,6 @@ author_profile: true
 {% endfor %}
 
 
-<h2>Work in Progress</h2>
+<h2>Selected Work in Progress</h2>
 <p>Revealed Preferences and Social Interactions</p>
 <p>Identification and Estimation of Nonlinear Peer Effects</p>
