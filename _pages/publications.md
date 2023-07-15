@@ -17,3 +17,5 @@ author_profile: true
 
 
 <h2>Work in Progress</h2>
+<p>Revealed Preferences and Social Interactions</p>
+<p>Identification and Estimation of Nonlinear Peer Effects</p>
