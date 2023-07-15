@@ -1,5 +1,6 @@
 ---
 title: "The Feudal Origins of Manorial Prosperity: Social Interactions in Eleventh-Century England"
+coauthors: "Vincent Delabastita"
 collection: publications
 permalink: /publication/JEH_DM23
 date: 2023-01-01
