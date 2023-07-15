@@ -7,5 +7,5 @@ date: 2023-01-01
 venue:
 paperurl:
 replicationurl:
-workingpaperurl: "test"
+workingpaperurl: "https://doi.org/10.48550/arXiv.2303.02645"
 ---
