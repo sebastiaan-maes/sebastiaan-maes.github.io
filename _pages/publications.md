@@ -9,7 +9,7 @@ author_profile: true
 
 <h2>Working Papers</h2>
 {% for post in site.publications reversed %}
-  {% if post.collection == 'workingpapers' %}
+  {% if post.collection == 'publications' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
