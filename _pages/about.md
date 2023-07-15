@@ -15,7 +15,7 @@ redirect_from:
 <p align="justify">I am also interested in the application of novel econometric techniques to questions in <b>economic history</b>.</p>
 
 <h2>Contact</h2>
-Department of Economics
-University of Antwerp
-Prinsstraat 13
+Department of Economics<br>
+University of Antwerp<br>
+Prinsstraat 13<br>
 B-2000 Antwerp
