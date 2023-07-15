@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Antwerp"
-date: 2023-2024
 location: "Antwerp"
 ---
 
