@@ -11,3 +11,4 @@ redirect_from:
 {% include base_path %}
 
 <p><a href="/files/Curriculum_vitae.pdf">Download</a> my curriculum vitae.</p>
+
