@@ -10,5 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/files/Curriculum_vitae.pdf" width="100%" height="300px">
-<p>Unable to display the PDF file. <a href="/files/Curriculum_vitae.pdf">Download</a> the CV instead.</p>
+<p><a href="/files/Curriculum_vitae.pdf">Download</a> my curriculum vitae.</p>
