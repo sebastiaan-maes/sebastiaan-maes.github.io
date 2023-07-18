@@ -47,7 +47,7 @@
         {% elsif post.collection == 'workingpapers' and post.status != ""%}
           <p>Joint with {{ post.coauthors }} <br> <a href=" {{ post.workingpaperurl }} "><i>[latest version]</i></a> &mdash; <i>{{ post.status }}</i></p>
         {% elsif post.collection == 'workingpapers' and post.status == "" %}
-          <p>Joint with {{ post.coauthors }} <br> <a href=" {{ post.workingpaperurl }} "><i>[latest version]</i></a> &mdash; </p>
+          <p>Joint with {{ post.coauthors }} <br> <a href=" {{ post.workingpaperurl }} "><i>[latest version]</i></a></p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
