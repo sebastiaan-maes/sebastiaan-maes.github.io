@@ -8,4 +8,5 @@ venue:
 paperurl:
 replicationurl:
 workingpaperurl: "https://doi.org/10.48550/arXiv.2303.01231"
+status: "Submitted"
 ---
