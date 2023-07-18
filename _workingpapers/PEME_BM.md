@@ -8,4 +8,5 @@ venue:
 paperurl:
 replicationurl:
 workingpaperurl:
+status: "Submitted"
 ---
