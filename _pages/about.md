@@ -13,9 +13,3 @@ redirect_from:
 <p align="justify">My primary research interests are <b>(applied) microeconometrics</b> and <b>public economics</b>, with a strong focus on demand and welfare analysis and social interactions.</p>
 
 <p align="justify">I am also interested in the application of novel econometric techniques to questions in <b>economic history</b>.</p>
-
-<h2>Contact</h2>
-<a href="https://www.uantwerpen.be/en/research-groups/economics/">Department of Economics</a><br>
-University of Antwerp<br>
-Prinsstraat 13<br>
-B-2000 Antwerp
