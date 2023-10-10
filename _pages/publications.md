@@ -17,8 +17,3 @@ author_profile: true
 {% for post in site.publications reversed %}
     {% include archive-single.html %}
 {% endfor %}
-
-<br>
-<h2>Selected Work in Progress</h2>
-<p>Revealed Preferences and Social Interactions</p>
-<p>Identification and Estimation of Nonlinear Peer Effects</p>
