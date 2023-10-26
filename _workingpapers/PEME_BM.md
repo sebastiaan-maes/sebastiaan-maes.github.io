@@ -1,5 +1,5 @@
 ---
-title: "Measurement Error and Peer Effects"
+title: "Measurement Error and Peer Effects in Networks"
 coauthors: "Yann Bramoullé"
 collection: workingpapers
 permalink: /publication/PEME_BM
