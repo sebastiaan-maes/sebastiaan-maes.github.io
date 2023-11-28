@@ -1,5 +1,5 @@
 ---
-title: "Robust Welfare Analysis under Individual Heterogeneity"
+title: "Robust Hicksian Welfare Analysis under Individual Heterogeneity"
 coauthors: "Raghav Malhotra"
 collection: workingpapers
 permalink: /publication/NPWC_MM
