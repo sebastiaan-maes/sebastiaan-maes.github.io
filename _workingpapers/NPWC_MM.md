@@ -3,7 +3,7 @@ title: "Robust Hicksian Welfare Analysis under Individual Heterogeneity"
 coauthors: "Raghav Malhotra"
 collection: workingpapers
 permalink: /publication/NPWC_MM
-date: 2023-01-02
+date: 2023-01-01
 venue:
 paperurl:
 replicationurl:
