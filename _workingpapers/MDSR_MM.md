@@ -8,5 +8,5 @@ venue:
 paperurl:
 replicationurl:
 workingpaperurl: 
-status: "Updated version coming soon"
+status: "Available upon request"
 ---
