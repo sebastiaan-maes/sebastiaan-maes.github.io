@@ -3,7 +3,7 @@ title: "Measurement Error and Peer Effects in Networks"
 coauthors: "Yann Bramoullé"
 collection: workingpapers
 permalink: /publication/PEME_BM
-date: 2023-01-03
+date: 2024-01-02
 venue:
 paperurl:
 replicationurl:
