@@ -7,6 +7,6 @@ date: 2024-01-02
 venue:
 paperurl:
 replicationurl:
-workingpaperurl: "https://github.com/sebastiaan-maes/files/Measurement_Error_and_Peer_Effects_in_Networks.pdf"
+workingpaperurl: "/files/Measurement_Error_and_Peer_Effects_in_Networks.pdf"
 status: ""
 ---
