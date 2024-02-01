@@ -1,5 +1,5 @@
 ---
-title: "Moments of Demand and Stochastic Rationalizability"
+title: "Beyond the Mean: Testing Consumer Rationality through Higher Moments of Demand"
 coauthors: "Raghav Malhotra"
 collection: workingpapers
 permalink: /publication/MDSR_MM
