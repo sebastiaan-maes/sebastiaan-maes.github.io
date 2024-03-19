@@ -7,6 +7,6 @@ date: 2024-01-01
 venue:
 paperurl:
 replicationurl:
-workingpaperurl: ""
-status: "Available upon request"
+workingpaperurl: "/files/Beyond_the_Mean.pdf"
+status: ""
 ---
