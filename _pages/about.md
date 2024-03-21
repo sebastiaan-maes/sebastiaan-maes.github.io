@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify">I am a postdoctoral researcher at Department of Economics at the University of Antwerp. My research is funded by a fellowship of the Research Foundation Flanders (FWO). I obtained my PhD in Economics from KU Leuven.</p>
+<p align="justify">I am a postdoctoral researcher at the <a href="https://www.uantwerpen.be/en/research-groups/economics/">Department of Economics<\a> at the University of Antwerp. My research is funded by a fellowship of the Research Foundation Flanders (FWO). I am also an associate fellow of <a href="https://warwick.ac.uk/fac/soc/economics/research/centres/creta/">CRETA<\a> (University of Warwick). I obtained my PhD in Economics from KU Leuven.</p> 
 
 <p align="justify">In the fall, I will move into a new position as an assistant professor at the University of Antwerp.</p>
 
