@@ -8,5 +8,5 @@ venue:
 paperurl:
 replicationurl:
 workingpaperurl: "/files/Measurement_Error_and_Peer_Effects_in_Networks.pdf"
-status: ""
+status: "Under review"
 ---
