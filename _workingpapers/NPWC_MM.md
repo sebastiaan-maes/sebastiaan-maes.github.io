@@ -7,6 +7,6 @@ date: 2024-01-04
 venue:
 paperurl:
 replicationurl:
-workingpaperurl: "https://doi.org/10.48550/arXiv.2303.01231"
+workingpaperurl: "/files/Robust_Hicksian_Welfare_Analysis_under_Individual_Heterogeneity.pdf"
 status: "Under review"
 ---
