@@ -12,4 +12,4 @@ redirect_from:
 
 <p align="justify">In the fall, I will move into a new position as an assistant professor at the University of Antwerp.</p>
 
-<p align="justify">My primary research interests are <b>(applied) microeconometrics</b> and <b>public economics</b>, with a strong focus on demand and welfare analysis and social interactions. I am also interested in <b>economic history</b>.</p>
+<p align="justify">My primary research interests are <b>public economics</b> and <b>(applied) microeconometrics</b>. I am also interested in <b>economic history</b>.</p>
