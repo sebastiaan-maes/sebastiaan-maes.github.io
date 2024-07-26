@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastiaan Maes"
-  avatar           : "sebastiaan.png"
+  avatar           :
   bio              : "Postdoctoral researcher"
   location         :
   employer         : "University of Antwerp"
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "sebastiaanmaes"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
