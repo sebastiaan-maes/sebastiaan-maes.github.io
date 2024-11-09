@@ -41,7 +41,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p><i>{{ post.venue }}</i></p>
+          <p></p>
         {% elsif post.collection == 'publications' %}
           <p>Joint with {{ post.coauthors }} &mdash; <i>{{ post.venue }}</i> ({{ post.date | default: "1900-01-01" | date: "%Y" }}) <br> <a href=" {{ post.paperurl }} "><i>[published article]</i></a> <a href=" {{ post.replicationurl }} "><i>[replication package]</i></a></p>
         {% elsif post.collection == 'workingpapers' and post.status != "" and post.workingpaperurl != ""%}
