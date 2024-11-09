@@ -20,6 +20,5 @@ author_profile: true
 
 <br>
 <h2>Selected work in progress</h2>
-{% for post in site.progress %}
-    {% include archive-single.html %}
-{% endfor %}
+<h3 class="archive__item-title" itemprop="headline">Disentangling Peer Effects</h3>
+<p>Joint with Raghav Malhotra <br> </p>
