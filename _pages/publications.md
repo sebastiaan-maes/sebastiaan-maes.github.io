@@ -21,10 +21,6 @@ author_profile: true
 <br>
 <h2>Selected work in progress</h2>
 
-<h3 class="archive__item-title" itemprop="headline">Welfare Analysis for Discrete Choice with Spillovers </h3>
-
-<h3 class="archive__item-title" itemprop="headline">Weak Instruments and Peer Effects </h3>
-
 <h3 class="archive__item-title" itemprop="headline">Disentangling Peer Effects</h3>
 <p>Joint with Raghav Malhotra <br> </p>
 
@@ -39,3 +35,7 @@ author_profile: true
 
 <h3 class="archive__item-title" itemprop="headline">Borders, Trade, and Persistence</h3>
 <p>Joint with Vincent Delabastita and Joris Hoste <br> </p>
+
+<h3 class="archive__item-title" itemprop="headline">Welfare Analysis for Discrete Choice with Spillovers </h3>
+
+<h3 class="archive__item-title" itemprop="headline">Weak Instruments and Peer Effects </h3>
