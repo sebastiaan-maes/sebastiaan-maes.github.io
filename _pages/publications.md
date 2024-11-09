@@ -21,7 +21,7 @@ author_profile: true
 <br>
 <h2>Selected work in progress</h2>
 
-<h3 class="archive__item-title" itemprop="headline">Welfare Analysis for Discrete Choice with Peer Effects </h3>
+<h3 class="archive__item-title" itemprop="headline">Welfare Analysis for Discrete Choice with Spillovers </h3>
 
 <h3 class="archive__item-title" itemprop="headline">Weak Instruments and Peer Effects </h3>
 
