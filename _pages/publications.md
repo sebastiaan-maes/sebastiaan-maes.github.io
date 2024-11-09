@@ -31,11 +31,11 @@ author_profile: true
 <h3 class="archive__item-title" itemprop="headline">Identification and Estimation of Heterogeneous Peer Effects</h3>
 <p>Joint with Yann Bramoullé and Alan Griffith <br> </p>
 
-<h3 class="archive__item-title" itemprop="headline">The Geography of Household Decision Making</h3>
-<p>Joint with Laurens Cherchye and Sam Cosaert <br> </p>
-
 <h3 class="archive__item-title" itemprop="headline">Consumption and Peer Effects</h3>
 <p>Joint with Sam Cosaert and Jasper Daans <br> </p>
+
+<h3 class="archive__item-title" itemprop="headline">The Geography of Household Decision Making</h3>
+<p>Joint with Laurens Cherchye and Sam Cosaert <br> </p>
 
 <h3 class="archive__item-title" itemprop="headline">Borders, Trade, and Persistence</h3>
 <p>Joint with Vincent Delabastita and Joris Hoste <br> </p>
