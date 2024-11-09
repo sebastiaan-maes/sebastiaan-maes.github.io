@@ -50,6 +50,8 @@
           <p>Joint with {{ post.coauthors }} <br> <i>{{ post.status }}</i></p>
         {% elsif post.collection == 'workingpapers' and post.status == "" %}
           <p>Joint with {{ post.coauthors }} <br> <a href=" {{ post.workingpaperurl }} "><i>[latest version]</i></a></p>
+        {% elsif post.collection == 'progress' and post.coauthors != "" %}
+          <p>Joint with {{ post.coauthors }} <br> </p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
