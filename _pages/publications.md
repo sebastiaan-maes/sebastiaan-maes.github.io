@@ -20,6 +20,6 @@ author_profile: true
 
 <br>
 <h2>Selected work in progress</h2>
-{% for post in site.progress reversed %}
+{% for post in site.progress %}
     {% include archive-single.html %}
 {% endfor %}
