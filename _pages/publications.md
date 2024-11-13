@@ -22,7 +22,7 @@ author_profile: true
       flex: 1;
     }
     img {
-      max-width: 100%;
+      max-width: 75px;
       height: auto;
       border-radius: 8px;
     }
@@ -48,8 +48,9 @@ author_profile: true
  
   <div class="container">
     <div class="text">
-      <h2>Your Heading</h2>
-      <p>This is where your explanatory text goes. Describe the image or add any related information here to complement the image on the right.</p>
+      <h3 class="archive__item-title" itemprop="headline">The Feudal Origins of Manorial Prosperity: Social Interactions in Eleventh-Century England</h3>
+      <p>Joint with Vincent Delabastita &mdash; <i>The Journal of Economic History</i> (2023) <br> 
+        <a href="https://doi.org/10.1017/S0022050723000116"><i>[published article (open access)]</i></a> <a href="https://doi.org/10.3886/E184904V1"><i>[replication package]</i></a></p>
     </div>
     <div class="image">
       <img src="/images/JEH23.jpg" alt="Description of image">
