@@ -10,7 +10,7 @@ author_profile: true
       display: flex;
       align-items: center;
       justify-content: space-between;
-      width: 125%;
+      width: 130%;
       margin: 0 auto;
     }
     .text {
