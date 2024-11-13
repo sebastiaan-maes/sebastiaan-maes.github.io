@@ -52,7 +52,7 @@ author_profile: true
       <p>This is where your explanatory text goes. Describe the image or add any related information here to complement the image on the right.</p>
     </div>
     <div class="image">
-      <img src="images/JEH23.jpg" alt="Description of image">
+      <img src="/images/JEH23.jpg" alt="Description of image">
     </div>
   </div>
 
