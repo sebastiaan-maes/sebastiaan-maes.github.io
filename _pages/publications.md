@@ -12,7 +12,6 @@ author_profile: true
       justify-content: space-between;
       max-width: 800px;
       margin: 0 auto;
-      padding: 20px;
     }
     .text {
       flex: 1;
@@ -42,10 +41,6 @@ author_profile: true
 
 <br>
 <h2>Publications</h2>
-<h3 class="archive__item-title" itemprop="headline">The Feudal Origins of Manorial Prosperity: Social Interactions in Eleventh-Century England</h3>
-<p>Joint with Vincent Delabastita &mdash; <i>The Journal of Economic History</i> (2023) <br> 
-    <a href="https://doi.org/10.1017/S0022050723000116"><i>[published article (open access)]</i></a> <a href="https://doi.org/10.3886/E184904V1"><i>[replication package]</i></a></p>
- 
   <div class="container">
     <div class="text">
       <h3 class="archive__item-title" itemprop="headline">The Feudal Origins of Manorial Prosperity: Social Interactions in Eleventh-Century England</h3>
@@ -56,9 +51,6 @@ author_profile: true
       <img src="/images/JEH23.jpg" alt="Description of image">
     </div>
   </div>
-
-
-
 
 
 
