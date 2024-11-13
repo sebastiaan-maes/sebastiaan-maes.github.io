@@ -12,7 +12,6 @@ author_profile: true
       justify-content: space-between;
       width: 100%;
       margin: 0 auto;
-      padding: 20px;
     }
     .text {
       flex: 1;
