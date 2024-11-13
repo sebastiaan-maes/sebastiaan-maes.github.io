@@ -12,11 +12,13 @@ author_profile: true
     {% include archive-single.html %}
 {% endfor %}
 
+
 <br>
 <h2>Publications</h2>
-{% for post in site.publications reversed %}
-    {% include archive-single.html %}
-{% endfor %}
+<h3 class="archive__item-title" itemprop="headline">The Feudal Origins of Manorial Prosperity: Social Interactions in Eleventh-Century England</h3>
+<p>Joint with Vincent Delabastita &mdash; <i>The Journal of Economic History</i> (2023) <br> 
+    <a href=" {{ post.paperurl }} "><i>[published article]</i></a> <a href=" {{ post.replicationurl }} "><i>[replication package]</i></a></p>
+
 
 <br>
 <h2>Selected work in progress</h2>
