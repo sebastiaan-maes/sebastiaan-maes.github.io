@@ -10,8 +10,9 @@ author_profile: true
       display: flex;
       align-items: center;
       justify-content: space-between;
-      max-width: 800px;
+      width: 100%;
       margin: 0 auto;
+      padding: 20px;
     }
     .text {
       flex: 1;
@@ -21,7 +22,7 @@ author_profile: true
       flex: 1;
     }
     img {
-      max-width: 75px;
+      max-width: 100px;
       height: auto;
       border-radius: 8px;
     }
