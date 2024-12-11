@@ -36,7 +36,7 @@ author_profile: true
 <h3 class="archive__item-title" itemprop="headline">Robust Hicksian Welfare Analysis under Individual Heterogeneity</h3>
 <p>Joint with Charles Gauthier and Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Robust_Hicksian_Welfare_Analysis_under_Individual_Heterogeneity.pdf"><i>[latest version]</i></a> &mdash; <i>Under revision</i></p>
 
-TEST
+
 
 {% for post in site.workingpapers reversed %}
     {% include archive-single.html %}
