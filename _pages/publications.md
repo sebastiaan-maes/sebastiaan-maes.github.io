@@ -35,16 +35,16 @@ author_profile: true
 <h2>Working papers</h2>
 
 <h3 class="archive__item-title" itemprop="headline">Measurement Error and Peer Effects in Networks</h3>
-<p>Joint with Yann Bramoullé <br> <a href="https://sebastiaan-maes.github.io/files/Measurement_Error_and_Peer_Effects_in_Networks.pdf"><i>[latest version]</i></a> &mdash; <i>Under review</i></p>
+<p>Joint with Yann Bramoullé <br> <a href="https://sebastiaan-maes.github.io/files/Measurement_Error_and_Peer_Effects_in_Networks.pdf"><i>[latest version]</i></a> &mdash; Under review</p>
 
 <h3 class="archive__item-title" itemprop="headline">Robust Hicksian Welfare Analysis under Individual Heterogeneity</h3>
-<p>Joint with Charles Gauthier and Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Robust_Hicksian_Welfare_Analysis_under_Individual_Heterogeneity.pdf"><i>[latest version]</i></a> &mdash; <i>Under revision</i></p>
+<p>Joint with Charles Gauthier and Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Robust_Hicksian_Welfare_Analysis_under_Individual_Heterogeneity.pdf"><i>[latest version]</i></a> &mdash; Under revision</p>
 
 <h3 class="archive__item-title" itemprop="headline">Beyond the Mean: Testing Consumer Rationality through Higher Moments of Demand</h3>
-<p>Joint with Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Beyond_the_Mean.pdf"><i>[latest version]</i></a> &mdash; <i>Under revision</i></p>
+<p>Joint with Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Beyond_the_Mean.pdf"><i>[latest version]</i></a> &mdash; Under revision</p>
 
 <h3 class="archive__item-title" itemprop="headline">Identifying the Distribution of Welfare from Discrete Choice</h3>
-<p>Joint with Bart Capéau and Liebrecht De Sadeleer <br> <a href="https://doi.org/10.48550/arXiv.2303.02645"><i>[latest version]</i></a> &mdash; <i>Conditionally accepted at Social Choice and Welfare</i></p>
+<p>Joint with Bart Capéau and Liebrecht De Sadeleer <br> <a href="https://doi.org/10.48550/arXiv.2303.02645"><i>[latest version]</i></a> &mdash; Conditionally accepted at <i>Social Choice and Welfare</i></p>
 
 
 
