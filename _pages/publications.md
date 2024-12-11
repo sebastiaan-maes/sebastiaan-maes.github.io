@@ -43,8 +43,17 @@ author_profile: true
 <h3 class="archive__item-title" itemprop="headline">Beyond the Mean: Testing Consumer Rationality through Higher Moments of Demand</h3>
 <p>Joint with Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Beyond_the_Mean.pdf"><i>[latest version]</i></a> &mdash; Under revision</p>
 
-<h3 class="archive__item-title" itemprop="headline">Identifying the Distribution of Welfare from Discrete Choice</h3>
-<p>Joint with Bart Capéau and Liebrecht De Sadeleer <br> <a href="https://doi.org/10.48550/arXiv.2303.02645"><i>[latest version]</i></a> &mdash; Conditionally accepted at <i>Social Choice and Welfare</i></p>
+  <div class="container">
+    <div class="text">
+      <h3 class="archive__item-title" itemprop="headline">Identifying the Distribution of Welfare from Discrete Choice</h3>
+      <p>Joint with Bart Capéau and Liebrecht De Sadeleer <br> <a href="https://doi.org/10.48550/arXiv.2303.02645"><i>[latest version]</i></a> &mdash; Conditionally accepted at <i>Social Choice and Welfare</i></p>
+    </div>
+    <div class="image">
+      <img src="/images/SCW.jpg" alt="Description of image">
+    </div>
+  </div>
+
+
 
 
 
