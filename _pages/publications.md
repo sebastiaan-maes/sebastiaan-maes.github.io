@@ -46,7 +46,9 @@ author_profile: true
   <div class="container">
     <div class="text">
       <h3 class="archive__item-title" itemprop="headline">Identifying the Distribution of Welfare from Discrete Choice</h3>
-      <p>Joint with Bart Capéau and Liebrecht De Sadeleer <br> <a href="https://doi.org/10.48550/arXiv.2303.02645"><i>[latest version]</i></a> &mdash; Conditionally accepted at <i>Social Choice and Welfare</i></p>
+      <p>Joint with Bart Capéau and Liebrecht De Sadeleer <br>
+      Conditionally accepted at <i>Social Choice and Welfare</i> <br>
+      <a href="https://doi.org/10.48550/arXiv.2303.02645"><i>[latest version]</i></a></p>
     </div>
     <div class="image">
       <img src="/images/SCW.jpg" alt="Description of image">
@@ -62,7 +64,8 @@ author_profile: true
   <div class="container">
     <div class="text">
       <h3 class="archive__item-title" itemprop="headline">The Feudal Origins of Manorial Prosperity: Social Interactions in Eleventh-Century England</h3>
-      <p>Joint with Vincent Delabastita &mdash; <i>The Journal of Economic History</i> (2023) <br> 
+      <p>Joint with Vincent Delabastita <br> 
+      <i>The Journal of Economic History</i> (2023) <br>
         <a href="https://doi.org/10.1017/S0022050723000116"><i>[published article (open access)]</i></a> <a href="https://doi.org/10.3886/E184904V1"><i>[replication package]</i></a></p>
     </div>
     <div class="image">
