@@ -48,7 +48,7 @@ author_profile: true
       <h3 class="archive__item-title" itemprop="headline">Identifying the Distribution of Welfare from Discrete Choice</h3>
       <p>Joint with Bart Capéau and Liebrecht De Sadeleer <br>
       Conditionally accepted at <i>Social Choice and Welfare</i> <br>
-      <a href="https://doi.org/10.48550/arXiv.2303.02645"><i>[latest version]</i></a></p>
+      <a href="https://doi.org/10.48550/arXiv.2303.02645"><i>[preprint]</i></a></p>
     </div>
     <div class="image">
       <img src="/images/SCW.jpg" alt="Description of image">
