@@ -32,16 +32,22 @@ author_profile: true
 
 {% include base_path %}
 
+<br>
+<h2>Publications</h2>
+  <div class="container">
+    <div class="text">
+      <h3 class="archive__item-title" itemprop="headline">The Feudal Origins of Manorial Prosperity: Social Interactions in Eleventh-Century England</h3>
+      <p>Joint with Vincent Delabastita <br> 
+      <i>The Journal of Economic History</i> (2023) <br>
+        <a href="https://doi.org/10.1017/S0022050723000116"><i>[published version (open access)]</i></a> <a href="https://doi.org/10.3886/E184904V1"><i>[replication package]</i></a></p>
+    </div>
+    <div class="image">
+      <img src="/images/JEH23.jpg" alt="Description of image">
+    </div>
+  </div>
+
+
 <h2>Working papers</h2>
-
-<h3 class="archive__item-title" itemprop="headline">Measurement Error and Peer Effects in Networks</h3>
-<p>Joint with Yann Bramoullé <br> <a href="https://sebastiaan-maes.github.io/files/Measurement_Error_and_Peer_Effects_in_Networks.pdf"><i>[latest version]</i></a> &mdash; Under review</p>
-
-<h3 class="archive__item-title" itemprop="headline">Robust Hicksian Welfare Analysis under Individual Heterogeneity</h3>
-<p>Joint with Charles Gauthier and Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Robust_Hicksian_Welfare_Analysis_under_Individual_Heterogeneity.pdf"><i>[latest version]</i></a></p>
-
-<h3 class="archive__item-title" itemprop="headline">Beyond the Mean: Testing Consumer Rationality through Higher Moments of Demand</h3>
-<p>Joint with Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Beyond_the_Mean.pdf"><i>[latest version]</i></a></p>
 
   <div class="container">
     <div class="text">
@@ -56,22 +62,14 @@ author_profile: true
   </div>
 
 
+<h3 class="archive__item-title" itemprop="headline">Measurement Error and Peer Effects in Networks</h3>
+<p>Joint with Yann Bramoullé <br> <a href="https://sebastiaan-maes.github.io/files/Measurement_Error_and_Peer_Effects_in_Networks.pdf"><i>[latest version]</i></a> &mdash; Under review</p>
 
+<h3 class="archive__item-title" itemprop="headline">Robust Hicksian Welfare Analysis under Individual Heterogeneity</h3>
+<p>Joint with Charles Gauthier and Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Robust_Hicksian_Welfare_Analysis_under_Individual_Heterogeneity.pdf"><i>[latest version]</i></a></p>
 
-
-<br>
-<h2>Publications</h2>
-  <div class="container">
-    <div class="text">
-      <h3 class="archive__item-title" itemprop="headline">The Feudal Origins of Manorial Prosperity: Social Interactions in Eleventh-Century England</h3>
-      <p>Joint with Vincent Delabastita <br> 
-      <i>The Journal of Economic History</i> (2023) <br>
-        <a href="https://doi.org/10.1017/S0022050723000116"><i>[published version (open access)]</i></a> <a href="https://doi.org/10.3886/E184904V1"><i>[replication package]</i></a></p>
-    </div>
-    <div class="image">
-      <img src="/images/JEH23.jpg" alt="Description of image">
-    </div>
-  </div>
+<h3 class="archive__item-title" itemprop="headline">Beyond the Mean: Testing Consumer Rationality through Higher Moments of Demand</h3>
+<p>Joint with Raghav Malhotra <br> <a href="https://sebastiaan-maes.github.io/files/Beyond_the_Mean.pdf"><i>[latest version]</i></a></p>
 
 
 
