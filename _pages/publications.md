@@ -32,7 +32,6 @@ author_profile: true
 
 {% include base_path %}
 
-<br>
 <h2>Publications</h2>
   <div class="container">
     <div class="text">
@@ -45,6 +44,7 @@ author_profile: true
       <img src="/images/JEH23.jpg" alt="Description of image">
     </div>
   </div>
+<br>
 
 
 <h2>Working papers</h2>
